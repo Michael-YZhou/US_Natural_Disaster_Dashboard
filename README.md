@@ -66,5 +66,6 @@ The **US Natural Disasters Dashboard** is a powerful tool for exploring and unde
 
 ## Data Source
 
-The US Natural Disaster Declarations dataset is a summary of all federally declared disasters since 1953. The original data comes from the FEMA website. Only data from 2003 to 2023 has been used in the dashboard.  
+The US Natural Disaster Declarations dataset is a summary of all federally declared disasters since 1953. The original data comes from the FEMA website. Only data from 2003 to 2023 has been used in the dashboard.
+
 Data source URL: [https://www.kaggle.com/datasets/headsortails/us-natural-disaster-declarations?select=us_disasters_m5.csv](https://www.kaggle.com/datasets/headsortails/us-natural-disaster-declarations?select=us_disasters_m5.csv)
