@@ -1,2 +1,4 @@
 *.RData
 *.Rhistory
+*.Report.docx
+*.Report.pdf
